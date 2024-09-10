@@ -10,10 +10,3 @@ webgl_sharing
 *.csproj
 *.meta
 connectwebgl.zip
-
-*/Assets/*
-!*/Assets/Scenes/
-!*/Assets/Settings/
-!*/Assets/Materials/
-!*/Assets/*.asset
-!*/Assets/*.cs
